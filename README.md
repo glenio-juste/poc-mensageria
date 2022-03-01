@@ -22,7 +22,9 @@ Enviando a mensagem
 ![Screenshot_1](https://user-images.githubusercontent.com/47223292/154821362-59d89eb8-4ad2-4fc3-8506-356f373814f6.png)
 
 
-![Screenshot_2](https://user-images.githubusercontent.com/47223292/154821443-5a245b60-3d48-4486-b8e7-da715ad4524b.png)
+<div align="center">
+  ![Screenshot_2](https://user-images.githubusercontent.com/47223292/154821443-5a245b60-3d48-4486-b8e7-da715ad4524b.png)
+</div>
 
 
 ![Screenshot_3](https://user-images.githubusercontent.com/47223292/154821460-42ccf67c-71b5-4b0a-afdb-957dcc52e6d6.png)
