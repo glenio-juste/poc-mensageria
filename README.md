@@ -25,10 +25,7 @@ Enviando a mensagem
 
 ![Screenshot_1](https://user-images.githubusercontent.com/47223292/154821362-59d89eb8-4ad2-4fc3-8506-356f373814f6.png)
 
-<div style="text-align:center">
-  ![154821443-5a245b60-3d48-4486-b8e7-da715ad4524b](https://user-images.githubusercontent.com/47223292/156266576-ce272177-1729-46fa-9515-d1f1e988a67c.png)
 
-</div>
 
 ![Screenshot_2](https://user-images.githubusercontent.com/47223292/154821443-5a245b60-3d48-4486-b8e7-da715ad4524b.png)
 
